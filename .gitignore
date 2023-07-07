@@ -1,0 +1,12 @@
+*.DotSettings
+*.suo
+*.user
+*.userprefs
+
+**/.idea
+**/.vs
+**/.vscode
+
+**/bin
+**/obj
+**/packages
